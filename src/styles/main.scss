@@ -173,7 +173,7 @@
 
     .bg {
         background-color: $theme-primary-color;
-        background-image: url(../images/hero/hero-bg.png);
+        background-image: url(../assets/images/hero/hero-bg.png);
         background-repeat: no-repeat;
         background-position: top center;
         position: relative;
@@ -634,7 +634,7 @@
                 width: 20px;
                 height: 20px;
                 content: "";
-                background-image: url(../images/icons/arrow-minus.png);
+                background-image: url(../assets/images/icons/arrow-minus.png);
                 background-repeat: no-repeat;
                 background-size: 20px;
                 position: absolute;
@@ -647,7 +647,7 @@
                     width: 20px;
                     height: 20px;
                     content: "";
-                    background-image: url(../images/icons/arrow-plus.png);
+                    background-image: url(../assets/images/icons/arrow-plus.png);
                     background-repeat: no-repeat;
                     background-size: 20px;
                     transform: rotate(-90deg);
